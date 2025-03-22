@@ -1,0 +1,7 @@
+C:\Users\carlo\source\repos\CLINICAUHBenavides\CLINICAUHBenavides\obj\Debug\net8.0\CLINICAUHBenavides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\CLINICAUHBenavides\CLINICAUHBenavides\obj\Debug\net8.0\CLINICAUHBenavides.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\CLINICAUHBenavides\CLINICAUHBenavides\obj\Debug\net8.0\CLINICAUHBenavides.AssemblyInfo.cs
+C:\Users\carlo\source\repos\CLINICAUHBenavides\CLINICAUHBenavides\obj\Debug\net8.0\CLINICAUHBenavides.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\CLINICAUHBenavides\CLINICAUHBenavides\obj\Debug\net8.0\CLINICAUHBenavides.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carlo\source\repos\CLINICAUHBenavides\CLINICAUHBenavides\obj\Debug\net8.0\CLINICAUHBenavides.RazorAssemblyInfo.cache
+C:\Users\carlo\source\repos\CLINICAUHBenavides\CLINICAUHBenavides\obj\Debug\net8.0\CLINICAUHBenavides.RazorAssemblyInfo.cs

@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Pacientes</title>
+</head>
+<body>
+    <h1>Pacientes</h1>
+
+    <form method="post">
+        <input type="text" name="cedula" placeholder="Cédula" />
+        <input type="text" name="nombre" placeholder="Nombre" />
+        <input type="text" name="apellidos" placeholder="Apellidos" />
+        <input type="text" name="telefono" placeholder="Teléfono" />
+        <input type="date" name="fechaNacimiento" />
+        <input type="number" name="edad" placeholder="Edad" />
+
+        <button type="submit" name="accion" value="agregar">Agregar</button>
+        <button type="submit" name="accion" value="modificar">Modificar</button>
+        <button type="submit" name="accion" value="eliminar">Eliminar</button>
+    </form>
+
+    <div id="resultados"></div>
+</body>
+</html>
